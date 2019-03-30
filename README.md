@@ -1,9 +1,11 @@
-# JantaKiNetwork(Mirror of indian politics & government)
+# angularBasicSetup
 
 Author - Sayan Samanta
 The project started - Saturday, 30 March 2019, 4:31 pm(IST)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+This project was generated with -
+- [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2
+- [Angular Material(theme=purple-green)](https://material.angular.io/?theme=purple-green) version 7.3.6
 
 ## Development server
 
