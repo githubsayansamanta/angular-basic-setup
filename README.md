@@ -1,4 +1,7 @@
-# JantaKiNetwork
+# JantaKiNetwork(Mirror of indian politics & government)
+
+Author - Sayan Samanta
+The project started - Saturday, 30 March 2019, 4:31 pm(IST)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
